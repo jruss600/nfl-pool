@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+}
+
+.fixed_header{
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+
+.fixed_header tbody{
+  display:block;
+  width: 100%;
+  overflow: auto;
+  height: 400px;
+
+}
+
+.fixed_header thead tr {
+   display: block;
+}
+
+.fixed_header th, .fixed_header td {
+  padding: 5px;
+  text-align: center;
+  width: 200px;
+}
+  
+.projLoss {
+    background-color: rgba(255, 0, 0, 0.1);
+}
+
+.projWin {
+    background-color: rgba(0, 255, 0, 0.1);
+}
+
+.loss {
+    background-color: rgba(255, 0, 0, 0.5);
+}
+
+.win {
+    background-color: rgba(0, 255, 0, 0.5);
+}
+
+#logos {
+    width: 60px;
+}
