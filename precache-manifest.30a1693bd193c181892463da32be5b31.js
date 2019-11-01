@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "797bec48b25915bb00223e878ecefa3c",
+    "revision": "e7d01e7aece8d62a51ae10407e5984cb",
     "url": "/nfl-pool/index.html"
   },
   {
-    "revision": "87a8e14b6b773bf26154",
+    "revision": "f88936203a95ba488bcd",
     "url": "/nfl-pool/static/css/main.b2232873.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nfl-pool/static/js/2.895dfb5a.chunk.js"
   },
   {
-    "revision": "87a8e14b6b773bf26154",
-    "url": "/nfl-pool/static/js/main.b8a4ca57.chunk.js"
+    "revision": "f88936203a95ba488bcd",
+    "url": "/nfl-pool/static/js/main.6e9319db.chunk.js"
   },
   {
     "revision": "faa1126bdc46ebc684e2",

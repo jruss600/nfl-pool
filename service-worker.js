@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nfl-pool/precache-manifest.acc8407740bd3c54a2be41b54b3606f3.js"
+  "/nfl-pool/precache-manifest.30a1693bd193c181892463da32be5b31.js"
 );
 
 self.addEventListener('message', (event) => {
