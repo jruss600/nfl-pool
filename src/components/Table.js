@@ -40,7 +40,7 @@ class Table extends Component {
         let justinProjWins = 0;
         let johnProjWins = 0;
         teams.forEach( team => {
-            let projWins = 16 * ( team.wins / team.gamesPlayed );
+            let projWins = Math.round(16 * ( team.wins / team.gamesPlayed ));
             let line = LINES[team.team];
             if ( (projWins > line && JOHNPICKS[team.team] === 'OVER') || (projWins < line && JOHNPICKS[team.team] === 'UNDER') ) {
                 johnProjWins++
